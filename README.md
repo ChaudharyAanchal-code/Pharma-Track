@@ -308,4 +308,3 @@ Contributions are welcome if you want to extend the system with new inventory fe
 PharmaTrack is a practical, database-backed pharmacy inventory application that emphasizes correctness, stock accuracy, and operational simplicity. It provides a complete local workflow for receiving inventory, dispensing stock using FEFO rules, tracking stock changes, and generating expiry and reorder alerts.
 
 If you are learning Python, SQLite, or desktop application design, this project is a strong example of combining database logic with a user-friendly interface.
-
